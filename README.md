@@ -21,7 +21,7 @@
 
 ![Jestin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&hide=prs,issues&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mr-jestin-roy&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-jestin-roy&show_icons=true&locale=en&layout=compact" alt="mr-jestin-roy" />
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mr-jestin-roy&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 **Reach me at**
 
