@@ -7,7 +7,7 @@
 - When I am not busy programming, I enjoy watching movies, web series, reading blogs and listening to some amazing music.
 
 ![Jestin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&hide=prs,issues&show_icons=true&theme=vue)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-jestin-roy&repo=coronasafe.in)](https://github.com/coronasafe/coronasafe.in)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-jestin-roy)](https://github.com/anuraghazra/github-readme-stats)
 
 **Reach me at**
 
