@@ -6,7 +6,7 @@
 
 - When I am not busy programming, I enjoy watching movies, web series, reading blogs and listening to some amazing music.
 
-![Jestin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&hide=contribs,prs)
+![Jestin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&hide=contribs,prs,issues&show_icons=true)
 
 **Reach me at**
 
