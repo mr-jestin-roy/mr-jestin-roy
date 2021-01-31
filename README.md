@@ -21,8 +21,16 @@
 
 ![Jestin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&hide=prs,issues&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mr-jestin-roy&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mr-jestin-roy)]
-
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+```text
+Python       35 mins         ███████████▒░░░░░░░░░░░░░   45.13 % 
+Markdown     16 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.90 % 
+JavaScript   13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Go           8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+```
+<!--END_SECTION:waka-->
 **Reach me at**
 
 <a href="https://linkedin.com/in/jestinroy3/">
