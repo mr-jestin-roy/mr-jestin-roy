@@ -20,7 +20,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
 ![Jestin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&hide=prs,issues&show_icons=true&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-jestin-roy&layout=compact&theme=vue&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-jestin-roy&show_icons=true&locale=en&layout=compact" alt="mr-jestin-roy" /></p>
 
 **Reach me at**
 
