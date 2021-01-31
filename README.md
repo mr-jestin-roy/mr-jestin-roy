@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi there 👋, I'm Jestin Roy</h1>
 
 - I am a Software Engineer in the making and a full stack developer who loves coding & developing. I've got experience with Node, and have worked on a couple of React, Express and Python projects.
