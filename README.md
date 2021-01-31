@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Jestin Roy</h1>
+<h1 align="center">Hi, I'm Jestin Roy 👋</h1>
 
 <img align='right' src="https://github.com/mr-jestin-roy/mr-jestin-roy/blob/main/hello.gif" width="250">
 
