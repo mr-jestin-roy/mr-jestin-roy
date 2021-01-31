@@ -8,11 +8,18 @@
 
 - When I am not busy programming, I enjoy watching movies, web series, reading blogs and listening to some amazing music.
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+
 ![Jestin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&hide=prs,issues&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-jestin-roy&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 **Reach me at**
-
 
 <a href="https://linkedin.com/in/jestinroy3/">
   <img align="left" alt="Jestin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
