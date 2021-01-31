@@ -19,8 +19,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
-![Jestin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&hide=prs,issues&show_icons=true&theme=vue)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-jestin-roy&show_icons=true&locale=en&layout=compact" alt="mr-jestin-roy" /></p>
+![Jestin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&hide=prs,issues&show_icons=true&theme=vue) <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-jestin-roy&show_icons=true&locale=en&layout=compact" alt="mr-jestin-roy" />
 
 **Reach me at**
 
