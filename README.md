@@ -1,4 +1,4 @@
-### My name is Jestin Roy and I am a Software Developer and Debater based in New Delhi, India.
+## My name is Jestin Roy and I am a Software Developer and Debater based in New Delhi, India.
 I'm a Tech and Coding enthusiast with a Bachelor of Engineering - BE focused in Electrical and Electronics Engineering from Mar Athanasius College of Engineering (MACE).
 <img align='right' src="https://github.com/mr-jestin-roy/mr-jestin-roy/blob/main/hello.gif" width="250">
 - I am a Software Engineer in the making and a full stack developer who loves coding & developing. I've got experience with Node, and have worked on a couple of React, Express and Python projects.
