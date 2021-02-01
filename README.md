@@ -7,21 +7,25 @@ I'm a Tech and Coding enthusiast with a Bachelor of Engineering - BE focused in 
 - Currently working on some of my cool side projects and remote internships. I love to learn and contribute in any and every possible way.
 - I am available for hire. If you've got a project in mind, feel free to contact me via email (at the bottom). I like to work on interesting computer projects all the time, and also participating in hackathons and meetups from time to time.
 
-- 👨‍💻 **Teaching Assistant** at [Coding Ninjas](https://www.codingninjas.com/).
-- 👨‍🎓 Electronics and Communication engineering sophomore at **NSUT, Delhi**.
-- 💡 **Currently exploring** Machine Learning.
+- 👨‍🎓 Electrical and Electronics Engineering sophomore at **MACE, Kothamangalam**.
+- 💡 **Currently exploring** Machine Learning, OpenCV.
 - 💬 **Ask me** about React, Javascript or anything related to latest tech.
 
-**Languages and Tools:**  
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+### Languages and Frameworks:
+<code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
+<code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
+<code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/></code>
+<code><img width="40px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/></code>
+<code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png" title="Javascript"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&show_icons=true&theme=jolly&line_height=30&include_all_commits=true">
