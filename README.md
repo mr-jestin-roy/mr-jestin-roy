@@ -1,6 +1,4 @@
 <h1 align="center">Hi, I'm Jestin Roy 👋</h1>
-### My name is Jestin Roy and I am a Software Developer based in New Delhi, India.
-
 <img align='right' src="https://github.com/mr-jestin-roy/mr-jestin-roy/blob/main/hello.gif" width="250">
 I'm a Tech and Coding enthusiast with a Bachelor of Engineering - BE focused in Electrical and Electronics Engineering from Mar Athanasius College of Engineering (MACE).
 
