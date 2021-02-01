@@ -1,7 +1,6 @@
-<h1 align="center">Hi, I'm Jestin Roy 👋</h1>
-<img align='right' src="https://github.com/mr-jestin-roy/mr-jestin-roy/blob/main/hello.gif" width="250">
+### My name is Jestin Roy and I am a Software Developer and Debater based in New Delhi, India.
 I'm a Tech and Coding enthusiast with a Bachelor of Engineering - BE focused in Electrical and Electronics Engineering from Mar Athanasius College of Engineering (MACE).
-
+<img align='right' src="https://github.com/mr-jestin-roy/mr-jestin-roy/blob/main/hello.gif" width="250">
 - I am a Software Engineer in the making and a full stack developer who loves coding & developing. I've got experience with Node, and have worked on a couple of React, Express and Python projects.
 - Currently working on some of my cool side projects and remote internships. I love to learn and contribute in any and every possible way.
 - I am available for hire. If you've got a project in mind, feel free to contact me via email (at the bottom). I like to work on interesting computer projects all the time, and also participating in hackathons and meetups from time to time.
@@ -11,7 +10,7 @@ I'm a Tech and Coding enthusiast with a Bachelor of Engineering - BE focused in 
 - 💬 **Ask me** about React, Javascript or anything related to latest tech.
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&show_icons=true&theme=jolly&line_height=30&include_all_commits=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&show_icons=true&theme=jolly&line_height=30&include_all_commits=true&hide=issues">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mr-jestin-roy&hide=java,php,html,cmake,css,vim script,scss&theme=jolly&langs_count=8">
 </p>
 
