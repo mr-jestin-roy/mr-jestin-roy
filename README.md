@@ -11,6 +11,10 @@ I'm a Tech and Coding enthusiast with a Bachelor of Engineering - BE focused in 
 - 💡 **Currently exploring** Machine Learning, OpenCV.
 - 💬 **Ask me** about React, Javascript or anything related to latest tech.
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&show_icons=true&theme=jolly&line_height=30&include_all_commits=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mr-jestin-roy&hide=java,php,html,cmake,css,vim script,scss&theme=jolly&langs_count=8">
+</p>
 ### Languages and Frameworks:
 <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
@@ -27,23 +31,10 @@ I'm a Tech and Coding enthusiast with a Bachelor of Engineering - BE focused in 
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&show_icons=true&theme=jolly&line_height=30&include_all_commits=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mr-jestin-roy&hide=java,php,html,cmake,css,vim script,scss&theme=jolly&langs_count=8">
-</p>
-
 ### 🌐 Connect with me 
 <code><a href="https://linkedin.com/in/jestinroy3/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
 <code><a href="https://www.instagram.com/jestinroy.here/"><img width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
+<code><a href="https://github.com/mr-jestin-roy"><img width="40px" src="https://img.icons8.com/color/8x/000000/github.png" title="Github"/></a></code>
 <code><a href="mailto:jestinroy3@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
-<a href="https://linkedin.com/in/jestinroy3/">
-  <img align="left" alt="Jestin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/mr-jestin-roy">
-  <img align="left" alt="Jestin's Github" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://twitter.com/Jestin09045220">
-  <img align="left" alt="Jestin's Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 
 <img align='right' src="https://pageview.vercel.app/?github_user=mr-jestin-roy">
