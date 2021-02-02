@@ -7,7 +7,7 @@ I'm a Tech and Coding enthusiast with a Bachelor of Engineering - BE focused in 
 
 - 👨‍🎓 Electrical and Electronics Engineering sophomore at **MACE, Kothamangalam**.
 - 💡 **Currently exploring** Machine Learning, OpenCV.
-- 💬 **Ask me** about React, Javascript or anything related to latest tech.
+- 💬 **Ask me** about React,Javascript, Python, C++ STL or anything related to latest tech.
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&show_icons=true&theme=jolly&line_height=30&include_all_commits=true&hide=issues">
