@@ -39,13 +39,4 @@ I'm a Tech and Coding enthusiast with a Bachelor of Technology - BTeech focused 
 
 <img align='right' src="https://pageview.vercel.app/?github_user=mr-jestin-roy">
 
-### Weekly Stats
-<!--START_SECTION:waka-->
-```text
-Ruby         2 hrs 46 mins   ██████████████████▒░░░░░░   72.78 % 
-XML          28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-JavaScript   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Other        11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-```
-<!--END_SECTION:waka-->
+
