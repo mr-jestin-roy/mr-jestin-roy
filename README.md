@@ -39,7 +39,6 @@ I'm a Tech and Coding enthusiast with a Bachelor of Technology - BTeech focused 
 ### 🌐 Connect with me 
 <code><a href="https://linkedin.com/in/jestinroy3/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
 <code><a href="https://www.instagram.com/jestinroy.here/"><img width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
-<code><a href="https://github.com/mr-jestin-roy"><img width="40px" src="https://img.icons8.com/color/8x/000000/github.png" title="Github"/></a></code>
 <code><a href="mailto:jestinroy3@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 [![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thejestinroy)
 [![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mr-jestin-roy)
