@@ -6,7 +6,7 @@ I'm a Tech and Coding enthusiast with a Bachelor of Technology - BTeech focused 
 - I am available for hire. If you've got a project in mind, feel free to contact me via email (at the bottom). I like to work on interesting computer projects all the time, and also participating in hackathons and meetups from time to time.
 
 - 👨‍🎓 Electrical and Electronics Engineering sophomore at **MACE, Kothamangalam**.
-- 💡 **Currently exploring** Machine Learning, OpenCV.
+- 💡 **Currently exploring** CP, MERN, Machine Learning, OpenCV.
 - 💬 **Ask me** about React,Javascript, Python, C++ STL or anything related to latest tech.
 
 <p align = "center">
@@ -16,7 +16,7 @@ I'm a Tech and Coding enthusiast with a Bachelor of Technology - BTeech focused 
 
 ### Languages and Frameworks:
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png" title="Javascript"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript"></code>
 <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
