@@ -1,4 +1,6 @@
-## Hi, I'm Jestin Roy, a Software Developer based in New Delhi, India.
+<h3> < Hello world, I'm <a href="https://www.jestinroy.xyz/" target="_blank"> Jestin Roy</a> /> </h3>
+  
+### I'm a Software Developer based in New Delhi, India.
 I'm a Tech and Coding enthusiast with a Bachelor of Technology - BTeech focused in Electrical and Electronics Engineering from Mar Athanasius College of Engineering (MACE).
 <img align='right' src="https://github.com/mr-jestin-roy/mr-jestin-roy/blob/main/profile.jpg" width="300">
 - I am a Software Engineer in the making and a full stack developer who loves coding & developing. I've got experience with Node, and have worked on a couple of React, Express and Python projects.
@@ -37,9 +39,8 @@ I'm a Tech and Coding enthusiast with a Bachelor of Technology - BTeech focused 
 ![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### 🌐 Connect with me 
-<code><a href="https://linkedin.com/in/jestinroy3/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
+[![Linkedin Badge](https://img.shields.io/badge/-annu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jestinroy3/)](https://www.linkedin.com/in/jestinroy3/) [![Gmail Badge](https://img.shields.io/badge/-jestinroy3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jestinroy3@gmail.com)](mailto:jestinroy3@gmail.com)
 <code><a href="https://www.instagram.com/jestinroy.here/"><img width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
-<code><a href="mailto:jestinroy3@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 [![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thejestinroy)
 [![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mr-jestin-roy)
 <img align='right' src="https://pageview.vercel.app/?github_user=mr-jestin-roy">
