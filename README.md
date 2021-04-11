@@ -39,7 +39,7 @@ I'm a Tech and Coding enthusiast with a Bachelor of Technology - BTeech focused 
 ![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### 🌐 Connect with me 
-[![Linkedin Badge](https://img.shields.io/badge/-Jestin Roy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jestinroy3/)](https://www.linkedin.com/in/jestinroy3/) [![Gmail Badge](https://img.shields.io/badge/-jestinroy3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jestinroy3@gmail.com)](mailto:jestinroy3@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Jestin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jestinroy3/)](https://www.linkedin.com/in/jestinroy3/) [![Gmail Badge](https://img.shields.io/badge/-jestinroy3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jestinroy3@gmail.com)](mailto:jestinroy3@gmail.com)
 <code><a href="https://www.instagram.com/jestinroy.here/"><img width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
 [![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thejestinroy)
 [![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mr-jestin-roy)
