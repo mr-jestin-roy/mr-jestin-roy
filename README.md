@@ -1,7 +1,7 @@
 <h3> < Hello world, I'm <a href="https://www.jestinroy.xyz/" target="_blank"> Jestin Roy</a> /> </h3>
   
 ### I'm a Software Developer based in New Delhi, India.
-I'm a Tech and Coding enthusiast with a Bachelor of Technology - BTeech focused in Electrical and Electronics Engineering from Mar Athanasius College of Engineering (MACE).
+I'm a Tech and Coding enthusiast with a Bachelor of Technology - B.Tech focused in Electrical and Electronics Engineering from Mar Athanasius College of Engineering (MACE).
 <img align='right' src="https://github.com/mr-jestin-roy/mr-jestin-roy/blob/main/profile.jpg" width="300">
 - I am a Software Engineer in the making and a full stack developer who loves coding & developing. I've got experience with Node, and have worked on a couple of React, Express and Python projects.
 - Currently working on some of my cool side projects and remote internships. I love to learn and contribute in any and every possible way.
