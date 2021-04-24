@@ -8,7 +8,7 @@ I'm a Tech and Coding enthusiast with a Bachelor of Technology - B.Tech focused 
 - I am available for hire. If you've got a project in mind, feel free to contact me via email (at the bottom). I like to work on interesting computer projects all the time, and also participating in hackathons and meetups from time to time.
 
 - 👨‍🎓 Electrical and Electronics Engineering sophomore at **MACE, Kothamangalam**.
-- 💡 **Currently exploring** CP, MERN, Machine Learning, OpenCV.
+- 💡 **Currently exploring** CP, MERN Stack, Machine Learning, OpenCV.
 - 💬 **Ask me** about React,Javascript, Python, C++ STL or anything related to latest tech.
 
 <p align = "center">
