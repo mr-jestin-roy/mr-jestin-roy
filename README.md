@@ -13,7 +13,7 @@ I'm a Tech and Coding enthusiast with a Bachelor of Technology - B.Tech focused 
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&show_icons=true&theme=jolly&line_height=30&include_all_commits=true&hide=issues">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mr-jestin-roy&hide=java,php,tcl,shell,Cmake,css,C,vim script,scss&theme=jolly&exlude_repo=Facial-Recognition-Attendence-System&langs_count=3">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mr-jestin-roy&hide=java,php,tcl,shell,Cmake,css,C,vim script,scss&theme=jolly&exclude_repo=Facial-Recognition-Attendence-System)](https://github.com/mr-jestin-roy/Facial-Recognition-Attendence-System)&langs_count=3">
 </p>
 
 ### Languages and Frameworks:
