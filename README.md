@@ -13,8 +13,8 @@ I'm a Tech and Coding enthusiast with a Bachelor of Technology - B.Tech focused 
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&show_icons=true&theme=jolly&line_height=30&include_all_commits=true&hide=issues">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mr-jestin-roy&hide=java,php,tcl,shell,Cmake,css,C,HTML,Python,vim script,scss&theme=jolly&langs_count=2">
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-jestin-roy&layout=compact)](https://github.com/mr-jestin-roy?tab=repositories)
 
 ### Languages and Frameworks:
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
