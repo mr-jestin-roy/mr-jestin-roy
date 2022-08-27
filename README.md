@@ -15,7 +15,7 @@ I'm a Tech and Coding enthusiast with a Bachelor of Technology - B.Tech focused 
   <img src = "https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&show_icons=true&theme=jolly&line_height=30&include_all_commits=true&hide=issues">
 </p>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-jestin-roy&hide=html,css,glsl,cmake,c,python,cpython,scss,vim-script&langs_count=3&layout=compact)]([https://github.com/mr-jestin-roy?tab=repositories](https://github.com/mr-jestin-roy?tab=repositories))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-jestin-roy&hide=html,css,glsl,cmake,c,python,cpython,scss&langs_count=2&layout=compact)]([https://github.com/mr-jestin-roy?tab=repositories](https://github.com/mr-jestin-roy?tab=repositories))
 
 ### Languages and Frameworks:
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
