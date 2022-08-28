@@ -4,8 +4,8 @@
 I'm a Tech and Coding enthusiast with a Bachelor of Technology - B.Tech focused in Electrical and Electronics Engineering from Mar Athanasius College of Engineering (MACE).
 <img align='right' src="https://github.com/mr-jestin-roy/mr-jestin-roy/blob/main/profile.jpg" width="300">
 - I am a Software Engineer in the making and a full stack developer who loves coding & developing. I've got experience with ReactJS, and have worked on a couple of NodeJS, Express and Python projects.
-- Currently working on some of my cool side projects and remote internships. I love to learn and contribute in any and every possible way.
-- I am available for hire. If you've got a project in mind, feel free to contact me via email (at the bottom). I like to work on interesting computer projects all the time, and also participating in hackathons and meetups from time to time.
+- Currently working as a Software Engineer at BigBinary ( a US-based Product Based Company), remotely from New Delhi.
+- I like to work on interesting computer projects in my free time, and also participating in hackathons and meetups from time to time.
 
 - 👨‍🎓 Electrical and Electronics Engineering sophomore at **MACE, Kothamangalam**.
 - 💡 **Currently exploring** Competitive Programming, MERN Stack, Machine Learning, OpenCV.
