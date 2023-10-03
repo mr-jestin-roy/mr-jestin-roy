@@ -13,7 +13,7 @@ I'm a Tech \& Coding enthusiast with a Bachelor of Technology - B.Tech focused i
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&show_icons=true&theme=jolly&line_height=30&include_all_commits=true&hide=issues">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-jestin-roy&hide=html,css,glsl,cmake,c,python,cpython,scss&langs_count=2">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-jestin-roy&hide=html,css,glsl,cmake,c,python,cpython,scss&langs_count=3">
 </p>
   
 
