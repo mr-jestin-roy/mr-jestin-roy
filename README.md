@@ -1,15 +1,18 @@
 <h3> < Hello world, I'm <a href="https://jestinroy3.netlify.app/" target="_blank"> Jestin Roy</a> /> </h3>
   
-### I'm a Software Developer based in New Delhi, India.
-I'm a Tech \& Coding enthusiast with a Bachelor of Technology - B.Tech focused in Electrical and Electronics Engineering from Mar Athanasius College of Engineering (MACE).
+### I'm a Software Engineer based in Melbourne, Australia.
+A machine learning specialist with expertise in Natural Language Processing, Deep Learning, and Video and Image generation using cutting-edge diffusion models. Currently, a masters of data science student at Monash University, Melbourne, Australia.
 <img align='right' src="https://github.com/mr-jestin-roy/mr-jestin-roy/blob/main/profile.jpg" width="300">
-- I am a Software Engineer in the making and a full stack developer who loves coding & developing. I've got experience with ReactJS, and have worked on a couple of NodeJS, Express and Python projects.
-- Currently working as a Software Engineer at BigBinary ( a US-based Product Based Company), remotely from New Delhi.
-- I like to work on interesting computer projects in my free time, and also participating in hackathons, conferences and meetups from time to time.
+- Meet Jestin Roy, a talented and dedicated software engineer passionate about solving complex problems and building innovative solutions, with a demonstrated history of working in production-grade engagements in AI and ML.
+- Jestin possesses a strong foundation in data structures and algorithms, machine learning, and soft computing.
+- <h5>Prev -  <a href="https://www.linkedin.com/company/trypencil/" target="_blank">Pencil AI</a> (Singapore & London), <a href="https://www.linkedin.com/company/keyvaluesystems" target="_blank">KeyValue</a> (India), <a href="https://www.linkedin.com/company/bigbinary" target="_blank">BigBinary</a> (US), <a href="https://www.linkedin.com/company/googledevelopersgroup" target="_blank">Google DSC</a> (India)
+</h5>
 
-- 👨‍🎓 Recent B.Tech Undergraduate from **MACE, Kothamangalam**.
-- 💡 **Currently exploring** Competitive Programming, Ruby on Rails, MERN Stack, Machine Learning, OpenCV.
-- 💬 **Ask me** about React,Javascript, Python, C++ STL or anything related to latest tech.
+In my free time, I like to work on interesting computer projects and participate in hackathons, conferences, and AI developer community meetups like Build Club & VC meetings in Melbourne CBD.
+
+- 👨‍🎓 Current **Masters of Data Science** student at **Monash University, Melbourne, Australia**.
+- 💡 **Currently exploring:** Artificial Intelligence, NLP, Competitive Programming, Ruby on Rails, MERN Stack, Machine Learning, 0-1 startup growth.
+- 💬 **Ask me** about AI/ML, NLP advancements in the sector, React, React Native, Ruby on Rails, NodeJS, Python (Django & Flask), C++ STL or anything related to the latest AI breakthroughs in the sector.
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&show_icons=true&theme=jolly&line_height=30&include_all_commits=true&hide=issues">
