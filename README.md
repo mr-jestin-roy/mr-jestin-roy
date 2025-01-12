@@ -3,8 +3,8 @@
 ### I'm a Software Engineer based in Melbourne, Australia.
 A results-driven machine learning specialist with 2.5 years of experience in Natural Language Processing (NLP), Deep Learning, and Video and Image generation using cutting-edge diffusion models. Currently pursuing a Master’s degree at Monash University, Australia, combining advanced technical skills with a strong foundation in full-stack software development and data analysis to deliver innovative, data-driven solutions. Passionate about solving complex challenges with creative AI applications.
 <img align='right' src="https://github.com/mr-jestin-roy/mr-jestin-roy/blob/main/profile.jpg" alt="Profile picture of Jestin Roy" width="300">
-- Meet Jestin Roy, a talented and dedicated software engineer passionate about solving complex problems and building innovative solutions, with a demonstrated history of working in production-grade engagements in AI and ML.
-- Jestin possesses a strong foundation in data structures and algorithms, machine learning, and soft computing.
+- <h5>Meet Jestin Roy, a talented and dedicated software engineer passionate about solving complex problems and building innovative solutions, with a demonstrated history of working in production-grade engagements in AI and ML.</h5>
+- <h5>Apart from his professional experience, Jestin has also contributed to open-source projects like CoronaSafe, which became part of the Kerala Covid War Room. He has held several positions of responsibility, including Web Master at IEEE MACE SB, CodeChef Competitive Programming Mentor at MACE, and Founder of Inside MACE.</h5>
 - <h5>Prev -  <a href="https://www.linkedin.com/company/trypencil/" target="_blank">Pencil AI</a> (Singapore & London), <a href="https://www.linkedin.com/company/keyvaluesystems" target="_blank">KeyValue</a> (India), <a href="https://www.linkedin.com/company/bigbinary" target="_blank">BigBinary</a> (US), <a href="https://www.linkedin.com/company/googledevelopersgroup" target="_blank">Google DSC</a> (India)
 </h5>
 
