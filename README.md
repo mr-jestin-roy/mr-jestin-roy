@@ -1,7 +1,7 @@
 <h3> < Hello world, I'm <a href="https://jestinroy3.netlify.app/" target="_blank"> Jestin Roy</a> /> </h3>
   
 ### I'm a Software Engineer based in Melbourne, Australia.
-A machine learning specialist with expertise in Natural Language Processing, Deep Learning, and Video and Image generation using cutting-edge diffusion models. Currently, a masters of data science student at Monash University, Melbourne, Australia.
+A results-driven machine learning specialist with 2.5 years of experience in Natural Language Processing (NLP), Deep Learning, and Video and Image generation using cutting-edge diffusion models. Currently pursuing a Master’s degree at Monash University, Australia, combining advanced technical skills with a strong foundation in full-stack software development and data analysis to deliver innovative, data-driven solutions. Passionate about solving complex challenges with creative AI applications.
 <img align='right' src="https://github.com/mr-jestin-roy/mr-jestin-roy/blob/main/profile.jpg" alt="Profile picture of Jestin Roy" width="300">
 - Meet Jestin Roy, a talented and dedicated software engineer passionate about solving complex problems and building innovative solutions, with a demonstrated history of working in production-grade engagements in AI and ML.
 - Jestin possesses a strong foundation in data structures and algorithms, machine learning, and soft computing.
