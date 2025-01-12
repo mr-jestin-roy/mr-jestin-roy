@@ -2,7 +2,7 @@
   
 ### I'm a Software Engineer based in Melbourne, Australia.
 A machine learning specialist with expertise in Natural Language Processing, Deep Learning, and Video and Image generation using cutting-edge diffusion models. Currently, a masters of data science student at Monash University, Melbourne, Australia.
-<img align='right' src="https://github.com/mr-jestin-roy/mr-jestin-roy/blob/main/profile.jpg" width="300">
+<img align='right' src="https://github.com/mr-jestin-roy/mr-jestin-roy/blob/main/profile.jpg" alt="Profile picture of Jestin Roy" width="300">
 - Meet Jestin Roy, a talented and dedicated software engineer passionate about solving complex problems and building innovative solutions, with a demonstrated history of working in production-grade engagements in AI and ML.
 - Jestin possesses a strong foundation in data structures and algorithms, machine learning, and soft computing.
 - <h5>Prev -  <a href="https://www.linkedin.com/company/trypencil/" target="_blank">Pencil AI</a> (Singapore & London), <a href="https://www.linkedin.com/company/keyvaluesystems" target="_blank">KeyValue</a> (India), <a href="https://www.linkedin.com/company/bigbinary" target="_blank">BigBinary</a> (US), <a href="https://www.linkedin.com/company/googledevelopersgroup" target="_blank">Google DSC</a> (India)
@@ -15,26 +15,24 @@ In my free time, I like to work on interesting computer projects and participate
 - 💬 **Ask me** about AI/ML, NLP advancements in the sector, React, React Native, Ruby on Rails, NodeJS, Python (Django & Flask), C++ STL or anything related to the latest AI breakthroughs in the sector.
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&show_icons=true&theme=jolly&line_height=30&include_all_commits=true&hide=issues">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-jestin-roy&hide=html,css,glsl,cmake,c,python,cpython,scss&langs_count=3">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&show_icons=true&theme=jolly&line_height=30&include_all_commits=true&hide=issues" alt="GitHub stats of Jestin Roy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-jestin-roy&hide=html,css,glsl,cmake,c,python,cpython,scss&langs_count=3" alt="Top programming languages used by Jestin Roy">
 </p>
-  
-
 
 ### Languages and Frameworks:
-<code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript"></code>
-<code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
-<code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap"/></code>
-<code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" alt="C++ logo" title="C++"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript logo" title="JavaScript"></code>
+<code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" alt="React logo" title="React"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" alt="Node.js logo" title="Node.js"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" alt="Python logo" title="Python"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" alt="C logo" title="C"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" alt="MongoDB logo" title="MongoDB"/></code>
+<code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" alt="MySQL logo" title="MySQL"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5 logo" title="HTML"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 logo" title="CSS"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/bootstrap.png" alt="Bootstrap logo" title="Bootstrap"/></code>
+<code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" alt="GitHub logo" title="GitHub"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/git.png" alt="Git logo" title="Git"/></code>
 
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -49,6 +47,4 @@ In my free time, I like to work on interesting computer projects and participate
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jestinroy.here/)](https://www.instagram.com/jestinroy.here/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thejestinroy)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mr-jestin-roy)
-<img align='right' src="https://pageview.vercel.app/?github_user=mr-jestin-roy">
-
-
+<img align='right' src="https://pageview.vercel.app/?github_user=mr-jestin-roy" alt="Page views counter for Jestin Roy's GitHub profile">
