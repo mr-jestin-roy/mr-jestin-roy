@@ -2,13 +2,13 @@
   
 ### I'm a Software Engineer based in Melbourne, Australia.
 A results-driven machine learning specialist with 3+ years of experience in Natural Language Processing (NLP), Deep Learning, and Video and Image generation using cutting-edge diffusion models. Currently pursuing a Master’s degree at Monash University, Australia, combining advanced technical skills with a strong foundation in full-stack software development and data analysis to deliver innovative, data-driven solutions. Passionate about solving complex challenges with creative AI applications.
-<img align='right' src="https://github.com/mr-jestin-roy/mr-jestin-roy/blob/main/profile.jpg" alt="Profile picture of Jestin Roy" width="300">
+<img align='right' src="./Jestin_github.gif" alt="Jestin Roy, finding a job in big tech">
 - <h5>Meet Jestin Roy, a talented and dedicated software engineer passionate about solving complex problems and building innovative solutions, with a demonstrated history of working in production-grade engagements in AI and ML.</h5>
 - <h5>Apart from his professional experience, Jestin has also contributed to open-source projects like CoronaSafe, which became part of the Kerala Covid War Room. He has held several positions of responsibility, including Web Master at IEEE MACE SB, CodeChef Competitive Programming Mentor at MACE, and Founder of Inside MACE.</h5>
 - <h5>Prev -  <a href="https://www.linkedin.com/company/trypencil/" target="_blank">Pencil AI</a> (Singapore & London), <a href="https://www.linkedin.com/company/keyvaluesystems" target="_blank">KeyValue</a> (India), <a href="https://www.linkedin.com/company/bigbinary" target="_blank">BigBinary</a> (US), <a href="https://www.linkedin.com/company/googledevelopersgroup" target="_blank">Google DSC</a> (India)
 </h5>
 
-In my free time, I like to work on interesting computer projects and participate in hackathons, conferences, and AI developer community meetups like Build Club & VC meetings in Melbourne CBD.
+In my free time, I enjoy working on interesting computer projects and staying connected with the tech community by attending hackathons, conferences, and AI developer meetups, such as Build Club and VC meetings in Melbourne CBD. I’m passionate about exploring the latest developments in AI/ML, sharing knowledge with fellow developers, and constantly seeking new challenges to grow both personally and professionally.
 
 - 👨‍🎓 Current **Masters of Data Science** student at **Monash University, Melbourne, Australia**.
 - 💡 **Currently exploring:** Artificial Intelligence, NLP, Competitive Programming, Ruby on Rails, MERN Stack, Machine Learning, 0-1 startup growth.
