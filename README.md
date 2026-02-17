@@ -1,50 +1,54 @@
-<h3> < Hello world, I'm <a href="https://jestinroy3.netlify.app/" target="_blank"> Jestin Roy</a> /> </h3>
-  
-### I'm a Software Engineer based in Melbourne CBD, Australia.
-A results-driven machine learning specialist with 3+ years of experience in Natural Language Processing (NLP), Deep Learning, and Video and Image generation using cutting-edge diffusion models. Currently pursuing a Master’s degree at Monash University, Australia, combining advanced technical skills with a strong foundation in full-stack software development and data analysis to deliver innovative, data-driven solutions. Passionate about solving complex challenges with creative AI applications.
-<img align='right' src="./Jestin_github.gif" alt="Jestin Roy, finding a job in big tech">
-- <h5>Meet Jestin Roy, a talented and dedicated software engineer passionate about solving complex problems and building innovative solutions, with a demonstrated history of working in production-grade engagements in AI and ML.</h5>
-- <h5>Apart from his professional experience, Jestin has also contributed to open-source projects like CoronaSafe, which became part of the Kerala Covid War Room. He has held several positions of responsibility, including Web Master at IEEE MACE SB, CodeChef Competitive Programming Mentor at MACE, and Founder of Inside MACE.</h5>
-- <h5>Prev -  <a href="https://www.linkedin.com/company/trypencil/" target="_blank">Pencil AI</a> (US, Singapore & London), <a href="https://www.linkedin.com/company/keyvaluesystems" target="_blank">KeyValue</a> (India), <a href="https://www.linkedin.com/company/bigbinary" target="_blank">BigBinary</a> (US), <a href="https://www.linkedin.com/company/googledevelopersgroup" target="_blank">Google DSC</a> (India)
-</h5>
+# <h1 align="center"> Hello world, I'm <a href="https://jestinroy3.netlify.app/" target="_blank"> Jestin Roy</a> 👋 </h1>
 
-In my free time, I enjoy working on interesting computer projects and staying connected with the tech community by attending hackathons, conferences, and AI developer meetups, such as Build Club and VC meetings in Melbourne CBD. I’m passionate about exploring the latest developments in AI/ML, sharing knowledge with fellow developers, and constantly seeking new challenges to grow both personally and professionally.
-
-- 👨‍🎓 Current **Masters of Data Science** student at **Monash University, Melbourne, Australia**.
-- 💡 **Currently exploring:** Artificial Intelligence, NLP, Competitive Programming, Ruby on Rails, MERN Stack, Machine Learning, 0-1 startup growth.
-- 💬 **Ask me** about AI/ML, NLP advancements in the sector, React, React Native, Ruby on Rails, NodeJS, Python (Django & Flask), C++ STL or anything related to the latest AI breakthroughs in the sector.
-
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-jestin-roy&count_private=true&show_icons=true&theme=jolly&line_height=30&include_all_commits=true&hide=issues" alt="GitHub stats of Jestin Roy">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-jestin-roy&hide=html,css,glsl,cmake,c,python,cpython,scss&langs_count=3" alt="Top programming languages used by Jestin Roy">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Senior-Trajectory+ML+Engineer;3%2B+Years+Production+Experience;Scaling+AI+on+NVIDIA+A100+Clusters" alt="Jestin Roy - Senior Machine Learning Engineer">
 </p>
 
-### Languages and Frameworks:
-<code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" alt="C++ logo" title="C++"/></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript logo" title="JavaScript"></code>
-<code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" alt="React logo" title="React"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" alt="Node.js logo" title="Node.js"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" alt="Python logo" title="Python"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" alt="C logo" title="C"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" alt="MongoDB logo" title="MongoDB"/></code>
-<code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" alt="MySQL logo" title="MySQL"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5 logo" title="HTML"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 logo" title="CSS"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/bootstrap.png" alt="Bootstrap logo" title="Bootstrap"/></code>
-<code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" alt="GitHub logo" title="GitHub"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/git.png" alt="Git logo" title="Git"/></code>
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🚀 Senior Machine Learning Engineer</h3>
+      <p align="justify">
+        I am a results-driven ML specialist with <b>3+ years of prior production experience</b> building and deploying systems that drive revenue and scale reliably in real-world environments.
+      </p>
+      <p align="justify">
+        Prior to my Master’s, I served as a <b>production AI/ML engineer</b> shipping commercial systems. During my Master’s at Monash (2024–2026), I led <b>applied research & commercialisation contracts</b> for <b>University of Melbourne, Monash University, Murdoch University and the University of Warwick (UK)</b>—leveraging high-performance infrastructure (HPC, NVIDIA A100s) to bridge the gap between deep research and industrial production.
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="Jestin_github.gif" width="100%" style="max-width:400px;"alt="Jestin Roy - Winner of Monash ImpactHack 2025. Senior ML Engineer working with PyTorch, AWS, and NVIDIA A100 GPU clusters in Sydney and Melbourne.">
+    </td>
+  </tr>
+</table>
 
-![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Skill](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Skill](https://img.shields.io/badge/Python-ffca28?style=for-the-badge&logo=python&logoColor=white)
-![Skill](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+---
 
-### 🌐 Connect with me 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jestinroy3/)](https://www.linkedin.com/in/jestinroy3/)
-[![Gmail Badge](https://img.shields.io/badge/-jestinroy3@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jestinroy3@gmail.com)](mailto:jestinroy3@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jestinroy.here/)](https://www.instagram.com/jestinroy.here/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thejestinroy)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mr-jestin-roy)
-<img align='right' src="https://pageview.vercel.app/?github_user=mr-jestin-roy" alt="Page views counter for Jestin Roy's GitHub profile">
+<p align="justify">
+    My work focuses on designing end-to-end, production-grade ML pipelines—from data ingestion and training to deployment, cost optimization, and monitoring—specializing in <b>LLMs, Generative AI, Computer Vision, and OCR.</b>
+</p>
+
+### 🚀 Selected Production Impact
+* **Production ML (@ Pencil AI):** Scaled generative ad systems for 40+ brands; improved **CTR by 25%** and reduced **CPA by 15%**.
+* **Systems at Scale (@ UniMelb / Monash):** Deployed OCR + Agentic AI pipelines processing **1.1M+ documents** with **90%+ accuracy**.
+* **Infrastructure & Cost:** Optimized latency to **<7s** on **NVIDIA A100 clusters** via RAG and selective model quantization.
+
+---
+
+### 🏆 Innovation & Impact
+* **Most Innovative Award | Monash ImpactHack 2025:** Recognized for technical excellence in architecting novel AI solution at Monash Hackathon.
+* **Top 1% in Monash Statistical Data Modelling (2025):** Ranked at the pinnacle of the Kaggle leaderboard across the entire AI/DS/IT/CyberSec cohort.
+* **Most Innovative Idea Award | KEYCODE 2023:** Awarded for creative technical strategy and execution at KeyValue.
+* **#1 Product of the Day (ProductHunt, 2023):** Led the AI Team and ranked 1st globally at launch; 2K+ upvotes, 1K+ user signups.
+* **Covid Public Health Infra:** Contributed to the **CoronaSafe Network**, officially integrated into the **Kerala Govt. Covid War Room** for state-wide pandemic response in 2020.
+* **Open-Source npm package (2023):** Architected a custom Rails Engine and open-sourced npm package (@bigbinary) to standardize push notification delivery
+across Safari and Chromium, scaling the service to 21+ products and increasing user retention by 15%.
+---
+
+### 🌐 Connect & Collaborate
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jestinroy3/ "Jestin Roy LinkedIn - Senior ML Engineer Melbourne & Sydney")
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jestinroy3@gmail.com "Contact Jestin Roy for AI/ML and Generative AI Engineering Projects")
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jestinroy3.netlify.app/ "View Jestin Roy's Full ML Engineering Portfolio and Case Studies")
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mr-jestin-roy&color=3776AB&style=flat-square&label=PROFILE+VIEWS" 
+  alt="GitHub Profile Visitor Count for Jestin Roy, Senior Machine Learning Engineer Melbourne">
+</p>
