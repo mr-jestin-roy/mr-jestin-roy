@@ -1,7 +1,7 @@
 # <h1 align="center"> Hello world, I'm <a href="https://jestinroy3.netlify.app/" target="_blank"> Jestin Roy</a> 👋 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Senior-Trajectory+ML+Engineer;3%2B+Years+Production+Experience;Scaling+AI+on+NVIDIA+A100+Clusters" alt="Jestin Roy - Senior Machine Learning Engineer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Senior+ML+Engineer;3%2B+Years+Production+Experience;Scaling+AI+on+NVIDIA+A100+Clusters" alt="Jestin Roy - Senior Machine Learning Engineer">
 </p>
 
 <table border="0">
