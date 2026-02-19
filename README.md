@@ -9,7 +9,7 @@
     <td width="60%" valign="top">
       <h3>🚀 Senior Machine Learning Engineer</h3>
       <p align="justify">
-        I am a results-driven ML specialist with <b>3+ years of prior production experience</b> building and deploying systems that drive revenue and scale reliably in real-world environments.
+        Machine Learning Engineer with 3+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐩𝐫𝐢𝐨𝐫 𝐩𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 building and deploying ML systems that drive revenue, reduce operational cost, and scale reliably in real-world environments.
       </p>
       <p align="justify">
         Prior to my Master’s, I served as a <b>production AI/ML engineer</b> shipping commercial systems. During my Master’s at Monash (2024–2026), I led <b>applied research & commercialisation contracts</b> for <b>University of Melbourne, Monash University, Murdoch University and the University of Warwick (UK)</b>—leveraging high-performance infrastructure (HPC, NVIDIA A100s) to bridge the gap between deep research and industrial production.
