@@ -45,8 +45,9 @@ across Safari and Chromium, scaling the service to 21+ products and increasing u
 
 ### 🌐 Connect & Collaborate
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jestinroy3/ "Jestin Roy LinkedIn - Senior ML Engineer Melbourne & Sydney")
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jestinroy3/ "Jestin Roy LeetCode Profile")
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jestinroy3@gmail.com "Contact Jestin Roy for AI/ML and Generative AI Engineering Projects")
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jestinroy3.netlify.app/ "View Jestin Roy's Full ML Engineering Portfolio and Case Studies")
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://jestinroy3.netlify.app/](https://www.jestinroy.space/) "View Jestin Roy's Full ML Engineering Portfolio and Case Studies")
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=mr-jestin-roy&color=3776AB&style=flat-square&label=PROFILE+VIEWS" 
